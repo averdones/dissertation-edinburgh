@@ -4,10 +4,10 @@ This reporitory contains the Matlab code of my dissertation for the MSc in Artif
 
 ## Some results
 <p align="center">
-  <img src="results/result_1.gif">
+  <img src="results/result1.png">
 </p>
 <p align="center">
-  <img src="results/result_2.gif">
+  <img src="results/result2.png">
 </p>
 
 A better view can be seen in the following video:
