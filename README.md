@@ -7,6 +7,7 @@ This reporitory contains the Matlab code of my dissertation for the MSc in Artif
 <p align="center">
   <img src="results/result1.png">
 </p>
+
 #### Example 2
 <p align="center">
   <img src="results/result2.png">
