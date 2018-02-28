@@ -5,15 +5,21 @@ This reporitory contains the Matlab code of my dissertation for the MSc in Artif
 ## Some results
 #### Example 1
 <p align="center">
+  <img src="results/result_moving1.gif">
+</p>
+
+---
+<p align="center">
   <img src="results/result1.png">
 </p>
 
 #### Example 2
+---
 <p align="center">
   <img src="results/result2.png">
 </p>
 
-A better view can be seen in the following video:
+A complete set of results can be seen in the following video:
 
 [https://www.youtube.com/watch?v=RZFBXTjE8Ik&t=1s](https://www.youtube.com/watch?v=RZFBXTjE8Ik&t=1s)
 
