@@ -1,6 +1,6 @@
 # Tracking People and Arms in Robot Surgery Workcell Using Multiple RGB-D Sensors
 
-This repository contains the Matlab code of my dissertation for the MSc in Artificial Intelligence at the university of Edinburgh.
+This repository contains the Matlab code of my dissertation for the MSc in Artificial Intelligence at the University of Edinburgh.
 
 ## Some results
 <p align="center">
