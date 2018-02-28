@@ -3,7 +3,6 @@
 This reporitory contains the Matlab code of my dissertation for the MSc in Artificial Intelligence at the university of Edinburgh.
 
 ## Some results
-#### Example 1
 <p align="center">
   <img src="results/result_moving1.gif">
 </p>
@@ -13,7 +12,6 @@ This reporitory contains the Matlab code of my dissertation for the MSc in Artif
   <img src="results/result1.png">
 </p>
 
-#### Example 2
 ---
 <p align="center">
   <img src="results/result2.png">
